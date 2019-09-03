@@ -4,7 +4,7 @@ github_repo: jekyll
 github_username: jekyll
 social_link: twitter
 social_username: jekyllrb
-theme_color: red
+theme_color: blue
 remote_theme: broccolini/swiss
 remote_theme_layouts:
   - default
